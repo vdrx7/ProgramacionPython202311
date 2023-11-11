@@ -2,7 +2,7 @@
 
 Material del curso de programación con Python
 
-Emplear el siguiente manual de instalación [link](https://gdelgador.github.io/ProgramacionPython202311/index.html).
+Emplear el siguiente manual de instalación [link](https://gdelgador.github.io/ProgramacionPython202311).
 
 ## Contenido del Curso
 
